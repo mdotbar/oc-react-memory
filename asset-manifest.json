@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oc-react-memory/static/css/main.ebd4f043.chunk.css",
+    "main.js": "/oc-react-memory/static/js/main.3818b1c6.chunk.js",
+    "main.js.map": "/oc-react-memory/static/js/main.3818b1c6.chunk.js.map",
+    "runtime~main.js": "/oc-react-memory/static/js/runtime~main.3b890ed2.js",
+    "runtime~main.js.map": "/oc-react-memory/static/js/runtime~main.3b890ed2.js.map",
+    "static/js/2.92409e51.chunk.js": "/oc-react-memory/static/js/2.92409e51.chunk.js",
+    "static/js/2.92409e51.chunk.js.map": "/oc-react-memory/static/js/2.92409e51.chunk.js.map",
+    "index.html": "/oc-react-memory/index.html",
+    "precache-manifest.99ac0ed3b2d1b29415563c8b683bb95c.js": "/oc-react-memory/precache-manifest.99ac0ed3b2d1b29415563c8b683bb95c.js",
+    "service-worker.js": "/oc-react-memory/service-worker.js",
+    "static/css/main.ebd4f043.chunk.css.map": "/oc-react-memory/static/css/main.ebd4f043.chunk.css.map"
+  }
+}
